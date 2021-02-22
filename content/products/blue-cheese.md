@@ -1,10 +1,10 @@
 +++
 date = "2019-04-10T15:48:38+00:00"
-description = "This long-aged cheese made with Penicillium mold is sure to be one of the stinkiest and strong tasting cheese. It comes with one of the best marbling available on the market."
-id = "BLUE_CHEESE"
-image = "/uploads/blue.jpg"
-name = "Blue cheese"
-price = 12.95
+description = "Gói cơ bản bao gồm 1 gói cà phê mỗi tháng với một phin pha cà phê."
+id = "CaPhe_phin"
+image = "/uploads/1479133216-5745aa499882e46721b6545bb1c38bb0.jpg"
+name = "Cà Phê Phin"
+price = 149000
 product_url = "https://snipcart-hugo-forestry.netlify.com"
 url = "/"
 
