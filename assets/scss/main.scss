@@ -1,4 +1,3 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700');
 
 // Utilities
 @import "./utilities/colors.scss";
@@ -7,6 +6,8 @@
 // Components
 @import "./components/button.scss";
 @import "./components/promotional-message.scss";
+@import "./components/blogging.scss";
+@import "./components/teams.scss";
 
 // Layouts
 @import "./layouts/header.scss";
@@ -15,10 +16,19 @@
 
 * {
   box-sizing: border-box;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Nunito', sans-serif;
   font-size: 16px;
   color: $color-black;
 }
+
+.myimg{
+  width: 220px;
+  height: 220px;
+  object-fit:cover;
+  border-radius:40%;
+}
+
+
 
 html, body {
   min-height: 100vh;
